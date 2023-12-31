@@ -55,7 +55,7 @@
       }
     ]
   },
-  // "requiredPrivateInfos": ["chooseAddress"],
+  "requiredPrivateInfos": [],
   "lazyCodeLoading": "requiredComponents",
   "usingComponents": {},
   "window": {
